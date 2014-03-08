@@ -1,5 +1,5 @@
 1.CaseInfo(CASE-ID,Time,Date,Place,Crime,
-	Forwarding time,Distance_from_PS,Access to Gro,Access to CLO,Received by clo,police_id)
+	Forwarding time,Distance_from_PS,Access to Gro,Access to CLO,Received by clo,police_id, cahrgeSheetID)
 	
 2.Plaintiff(PL_ID,name,fathter's name,mother's name,address,contact no.,case_id)
 

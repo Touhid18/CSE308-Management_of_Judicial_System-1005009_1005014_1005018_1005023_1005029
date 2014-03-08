@@ -105,3 +105,16 @@
 	comparer_id
 	suplier_id
 	
+16. Notification
+	Magistrate ID
+	Head
+	Body
+	Date
+	Seen
+	
+	
+	
+	
+	
+Procedures:
+	1. 
