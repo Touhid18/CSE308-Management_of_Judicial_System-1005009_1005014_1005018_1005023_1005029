@@ -91,7 +91,7 @@
 13.ChargeSheet
 	Cs-id
 	submitted_date
-	attachment
+	attachment		============== different table to handle multiple attachments??
 	investigationHead
 	
 14.Judgment
