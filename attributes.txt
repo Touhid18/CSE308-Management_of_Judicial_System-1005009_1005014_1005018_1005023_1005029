@@ -1,0 +1,107 @@
+1.	Case-Info
+	a.	Case-Id
+	b.	Time
+	c.	Date
+	d.	Place
+	e.	Crime
+	f.	Forwarding time
+	g.	Distance_from_PS
+	h.	Access to Gro
+	i.	Access to CLO
+	j.	Received by clo
+	
+2.Plaintiff
+	pl_id
+	name
+	fathter's name
+	mother's name
+	address
+	contact no.
+3.Accused
+	ac_id
+	name
+	fathter's name
+	mother's name
+	address
+	contact no.
+4.Witness
+	wit_id
+	name
+	fathter's name
+	mother's name
+	address
+	contact no.
+5.DutyOffice
+	police_id
+	name
+	fathter's name
+	mother's name
+	address
+	contact no.
+	
+6.OfficerInCharge
+	police_id
+	name
+	fathter's name
+	mother's name
+	address
+	contact no.
+	
+7.PoliceStation
+	PS_id
+	area-code
+	upazilla
+	district
+	address
+	
+8.Zone
+	zn_id
+	name
+	
+9.Court Employee
+	police_id
+	name
+	fathter's name
+	mother's name
+	address
+	contact no.
+	Joined Date
+	Salary
+	
+10. Courts
+	court_id
+	Name
+	floor
+	building no.
+	
+11.Magistrate
+	mag_id
+	name
+	fathter's name
+	mother's name
+	address
+	contact no.
+	degree
+	
+12.Causelist
+	mag. id
+	date
+	
+	
+13.ChargeSheet
+	Cs-id
+	submitted_date
+	attachment
+	investigationHead
+	
+14.Judgment
+	Jg-id
+	Date
+	Body
+	
+15.SuppliedDoc
+	Doc_id
+	copymaker_id
+	comparer_id
+	suplier_id
+	

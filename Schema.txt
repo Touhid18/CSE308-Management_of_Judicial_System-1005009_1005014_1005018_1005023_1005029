@@ -1,0 +1,34 @@
+1.CaseInfo(CASE-ID,Time,Date,Place,Crime,
+	Forwarding time,Distance_from_PS,Access to Gro,Access to CLO,Received by clo,police_id)
+	
+2.Plaintiff(PL_ID,name,fathter's name,mother's name,address,contact no.,case_id)
+
+3.Accused(AC_ID,name,fathter's name,mother's name,address,contact no.,case_id)
+
+4.Witness(WIT_ID,name,fathter's name,mother's name,address,contact no.,case_id)
+	
+5.DutyOffice(POLICE_ID,name,fathter's name,mother's name,address,contact no.,case_id,PS_id)
+	
+6.OfficerInCharge(POLICE_ID,name,fathter's name,mother's name,address,contact no.,case_id,PS_id)
+	
+7.PoliceStation(PS_id,area-code,upazilla,district,address,zone_id)
+	
+8.Zone(ZN_ID,name)
+	
+9.Court Employee(EMP_ID,name,fathter's name,mother's name,address,contact no.,Joined Date,Salary,court_id)
+	
+10. Courts(COURT_ID,Name,floor,building no.)
+	
+11.Magistrate(MAG_ID,name,fathter's name,mother's name,address,contact no.,degree)
+	
+12.Causelist(CASE_ID,court id,date)
+	
+13.ChargeSheet(CS-ID,submitted_date,attachment,investigationHead,police_id)
+
+14.Judgment(JG-ID,Date,Body,case_id,mag_id)
+
+15.CourtList(MAG_ID,COURT_ID)
+
+16.Order(O_ID,body,type,date,status,case_id,mag_id)
+
+17.SuppliedDoc(DOC_ID,copymaker_id,comparer_id,suplier_id)
