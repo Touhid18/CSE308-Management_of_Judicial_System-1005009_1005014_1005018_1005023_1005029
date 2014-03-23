@@ -1,0 +1,11 @@
+Scope Definition:
+	Slide 11 :: PS-> OC interface to submit CS
+				Trial -> No Judge, GRO, CLO, 
+				CMM: CMM
+	Slide 13 :: System naming should be changed
+	... DONE
+	
+use case: 
+	Slide 6 :: DO->Case Filing arrow, 
+	** Typical course of events, documentation of the case are not done
+

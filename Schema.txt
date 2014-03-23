@@ -7,9 +7,9 @@
 
 4.Witness(WIT_ID,name,fathter's name,mother's name,address,contact no.,case_id)
 	
-5.DutyOffice(POLICE_ID,name,fathter's name,mother's name,address,contact no.,case_id,PS_id)
+5.DutyOffice(POLICE_ID,name,fathter's name,mother's name,address,contact no.,PS_id)
 	
-6.OfficerInCharge(POLICE_ID,name,fathter's name,mother's name,address,contact no.,case_id,PS_id)
+6.OfficerInCharge(POLICE_ID,name,fathter's name,mother's name,address,contact no.,PS_id)
 	
 7.PoliceStation(PS_id,area-code,upazilla,district,address,zone_id)
 	
